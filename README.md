@@ -6,7 +6,7 @@
 
 About me 👇
 
-- 🌱 I’m currently learning **Front-End Development and a little about SQL**
+- 🌱 I’m currently learning **Back-End Development and a little about SQL**
 - 🏫 Study : Del Institute of Technology
 - 📍 Country : Indonesia
 - ✉️ Email  : antonio.girsang7@gmail.com
